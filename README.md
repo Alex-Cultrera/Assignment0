@@ -12,7 +12,7 @@ Click the green button, then click the blue "Create a new repository" button.
 You will be using this template to create a _new_ repository in your github.com remote workspace.
 
 
-![Image description](/images/template.jpg)
+![Image description](/images/alexPhoto.jpg)
 
 ### 2. Name it `Assignment0` when you create your own github repository from this template
 
